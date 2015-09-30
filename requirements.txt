@@ -1,0 +1,9 @@
+django
+--allow-unverified django-cv
+git+git://github.com/ZuluPro/django-cv.git#egg=django-cv
+dj-database-url
+psycopg2
+git+git://github.com/ojii/pymaging.git#egg=pymaging
+git+git://github.com/ojii/pymaging-png.git#egg=pymaging-png
+gunicorn
+whitenoise
